@@ -1,0 +1,100 @@
+#body0 {
+    background-image: url("images/R.jfif");
+    background-size: cover;
+    align-self: safe;
+}
+
+#body1 {
+    background-image: url("images/R\ \(1\).jfif");
+    background-size: cover;
+    align-self: safe;
+}
+
+#body2 {
+    background-image: url("images/OIP\ \(4\).jfif");
+    background-size: cover;
+    align-self: safe;
+}
+
+#body3 {
+    background-image: url("images/674115.jpg");
+    background-size: cover;
+    align-self: safe;
+}
+
+h1 {
+    color: rgb(87, 51, 56);
+    text-align: center;
+}
+
+#h31 {
+    color: white;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul {
+    border-top-style: double;
+    border-bottom-style: solid;
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+}
+
+li {
+    color: rgb(61, 22, 167);
+}
+
+a {
+    color: rgb(1, 44, 14);
+    font-size: larger;
+}
+
+#a1 {
+    color: rgb(22, 23, 26);
+    font-size: larger;
+    font-style: initial;
+}
+
+#a3 {
+    color: rgb(149, 173, 157);
+    font-size: larger;
+}
+
+#p1 {
+    font-size: x-large;
+    color: black;
+    font-style: initial;
+    font-weight: bolder;
+}
+
+#p0 {
+    font-size: larger;
+    font-weight: bolder;
+    color: aquamarine;
+}
+
+#h11 {
+    color: rgb(190, 185, 185);
+    text-align: center;
+}
+
+#p0p1 {
+    font-size: larger;
+    font-weight: bolder;
+    color: aquamarine;
+}
+
+#ex1 {
+    font-size: larger;
+    color: antiquewhite;
+    font-weight: bold;
+    font-stretch: expanded;
+}
+
+li {
+    font-size: larger;
+    color: antiquewhite;
+    font-weight: bold;
+    font-stretch: expanded;
+}
